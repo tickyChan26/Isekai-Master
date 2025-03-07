@@ -1,0 +1,5 @@
+Magic and skill system.
+— Magic includes 5 elements: Water, Fire, Earth, Air, Electricity.
+— Controlling two elements is rare, all of them are extremely rare.
+— Spells require intelligence and mana. Strong mages can use silent spells.
+— "Special Techniques" are unique spells that the player can create themselves
