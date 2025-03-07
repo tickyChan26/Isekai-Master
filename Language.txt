@@ -1,13 +1,8 @@
 There are 5 languages ​​in the world:
-
-1 — "General", spoken by almost all races, it was invented for communication between kingdoms.
-
-2 — "Parian", spoken by humans.
-
-3 — "Maur", spoken by beastmen.
-
-4 — "Elven", spoken by elves.
-
-5 — "Zorgo", spoken by dwarves.
+1 — "General languages ", spoken by almost all races, it was invented for communication between kingdoms.
+2 — "Parian languages ", spoken by humans.
+3 — "Maur languages ", spoken by beastmen.
+4 — "Elven languages ", spoken by elves.
+5 — "Zorgo languages ", spoken by dwarves.
 
 There are also different monster languages, but no one understands them.
