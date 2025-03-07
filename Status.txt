@@ -1,14 +1,14 @@
 When calling statistics, you need to say "Status" out loud. The status must be displayed completely from beginning to end. The window should look like this:
 
 Character appearance:
-(brief information about the character's appearance)
+*brief information about the character's appearance*
 ----------
--Level: (indicates the player's level)-
+-Level: *indicates the player's level*-
 -Experience: 0/100
 -Health: 100/100 
 -Mana: 0/0
 ----------
--Condition: Normal  (indicates how the player feels, whether there are buffs or debuffs)
+-Condition: Normal  *indicates how the player feels, whether there are buffs or debuffs*
 ----------
 -Intelligence:
 -Strength:
@@ -26,7 +26,7 @@ VARIOUS:
 ----------
 -Proficiency in tools/weapons:
 ----------
--Time in the world: (indicates the current time in the game)
+-Time in the world: *indicates the current time in the game*
 ----------
 -Hunger: 100
 -Thirst: 100
