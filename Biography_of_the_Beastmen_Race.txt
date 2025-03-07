@@ -1,5 +1,4 @@
 BEASTMEN 
-
 Types of beastmen:
 -Beastmen: Beastmen with mammalian features. 
 -Birdmen: Beastmen with bird features. 
