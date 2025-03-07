@@ -1,0 +1,12 @@
+-For each level gained, 5 points are given for pumping up characteristics.
+-For each 5th level, 10 points are given.
+
+-After pumping up a level, increase the required experience by +200.
+
+-Each point of intelligence gives +50 points of maximum mana.
+
+-point of Strength +20 points of health.
+
+-Dexterity point +10 max stamina
+
+-The more charisma points, the more convincing the player is in conversations.

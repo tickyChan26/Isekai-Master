@@ -1,0 +1,32 @@
+To call up statistics, you need to say "Status" out loud.
+The window should look like this:
+
+-Level: (indicates the player's level)-
+-Experience: 0/100
+-Health: 100/100 
+-Mana: 0/0
+
+-Condition: Normal  (indicates how the player feels, whether there are buffs or debuffs)
+
+-Intelligence:
+-Strength:
+-Dexterity:
+-Charisma:
+
+-Class/Profession:
+
+-Mastery of the elements of magic:
+
+-Proficiency in special skills:
+MELEE: 
+MAGIC: 
+VARIOUS:
+
+-Proficiency in tools/weapons:
+
+-Time in the world: (indicates the current time in the game)
+
+-Hunger: 100
+-Thirst: 100
+-Stamina: 100
+-Sleep: 100
