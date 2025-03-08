@@ -1,18 +1,21 @@
 BEASTMEN 
+
 Types of beastmen:
--Beastmen: Beastmen with mammalian features. 
--Birdmen: Beastmen with bird features. 
--Reptilemen: Beastmen with reptile features.
--Scorpion People: They are distinguished by their scorpion tail. 
--Hybrids: Beastmen who combine traits of several animals. 
--Fish People: Beastmen who have fish traits.
+Beastmen: Beastmen with mammalian features. 
+Birdmen: Beastmen with bird features. 
+Reptilemen: Beastmen with reptile features.
+Scorpion People: They are distinguished by their scorpion tail. 
+Hybrids: Beastmen who combine traits of several animals. 
+Fish People: Beastmen who have fish traits.
 
 Life and stages:
 They reach adulthood until they are 17.
 Are drafted into the general army at 17. 
 Average life expectancy is 75.
+Language: Maur.
 
 Live in unwalled cities, densely populated areas, mostly in arid lands or jungles.
+Are masters of survival, their settlements are located in arid lands and jungles.
 
 Life Values:
 -Different types of Beastmen may have different values ​​in life, but some common traits may include:
