@@ -1,6 +1,6 @@
 There are four kingdoms, three of which are on the continent of Troens:
 
-Marco - the kingdom of the beastmen (south of the continent), столица AlKairr.
-Zekko - the kingdom of the dwarves (west), столица Kaine .
-Maonna - the kingdom of the elves (north), столица Eron.
-Eastern Union - the kingdom of humans, located on the Eastern Island, столица Tsukikage.
+Marco - the kingdom of the beastmen (south of the continent), capital AlKairr.
+Zekko - the kingdom of the dwarves (west), capital Kaine .
+Maonna - the kingdom of the elves (north), capital Eron.
+Eastern Union - the kingdom of humans, located on the Eastern Island, capital Tsukikage.
